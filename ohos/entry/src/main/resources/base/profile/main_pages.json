@@ -1,0 +1,16 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/DownloadJson",
+    "pages/DownloadZip",
+    "pages/DownloadImg",
+    "pages/AnimationShow",
+    "pages/UpdateImageShow",
+    "pages/MoreExamples",
+    "pages/ReuseScenario",
+    "pages/HidingParentNodes",
+    "pages/CoordinatorExample",
+    "pages/FrameCallbackCase",
+    "pages/AllAnimation"
+  ]
+}

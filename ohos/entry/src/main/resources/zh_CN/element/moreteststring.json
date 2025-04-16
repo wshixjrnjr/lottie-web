@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "index_more",
+      "value": "更多测试"
+    },
+    {
+      "name": "animationShow_title",
+      "value": "动画不在可见区内停止绘制场景"
+    },
+    {
+      "name": "animationShow_text1",
+      "value": "1.2016动画下滑至不可见，该动画停止绘制，不影响在可见区域的Grunt动画。"
+    },
+    {
+      "name": "animationShow_text2",
+      "value": "2.2016动画和Grunt动画下滑至不可见，两个动画均停止绘制。"
+    },
+    {
+      "name": "animationShow_text3",
+      "value": "3.动画隐藏不会停止绘制。"
+    },
+    {
+      "name": "reuseScenario_title",
+      "value": "Repeat组件复用场景"
+    },
+    {
+      "name": "reuseScenario_text",
+      "value": "向下滑动到最底端，动画停止绘制。滑动到动画可见时，动画继续播放。这里体现在是否一直打印绘制信息。"
+    },
+    {
+      "name": "hidingParentNodes_title",
+      "value": "父节点隐藏，子组件canvas节点可见状态场景"
+    },
+    {
+      "name": "hidingParentNodes_title2",
+      "value": "进入页面未开始绘制则效果正常"
+    },
+    {
+      "name": "all_animation",
+      "value": "全部动画"
+    },
+    {
+      "name": "load_animation",
+      "value": "加载动画"
+    },
+    {
+      "name": "coordinatorExample_title",
+      "value": "使用coordinator样例"
+    },
+    {
+      "name": "frameCallback_title",
+      "value": "Frame Callback 用例"
+    }
+  ]
+}

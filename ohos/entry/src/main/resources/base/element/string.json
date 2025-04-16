@@ -1,0 +1,268 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "lottie"
+    },
+    {
+      "name": "frame",
+      "value": "Frame"
+    },
+    {
+      "name": "total",
+      "value": "Total"
+    },
+    {
+      "name": "time",
+      "value": "Time"
+    },
+    {
+      "name": "forward",
+      "value": "Forward"
+    },
+    {
+      "name": "backward",
+      "value": "Backward"
+    },
+    {
+      "name": "speed",
+      "value": "Speed"
+    },
+    {
+      "name": "load_2016",
+      "value": "Load 2016"
+    },
+    {
+      "name": "clear_cache",
+      "value": "Clear Cache"
+    },
+    {
+      "name": "load_grunt",
+      "value": "Load Grunt"
+    },
+    {
+      "name": "load_json",
+      "value": "Load Online json"
+    },
+    {
+      "name": "load_zip",
+      "value": "Load Online zip"
+    },
+    {
+      "name": "load_img",
+      "value": "Load Online images"
+    },
+    {
+      "name": "setting",
+      "value": "Setting"
+    },
+    {
+      "name": "global_setting",
+      "value": "Global Setting"
+    },
+    {
+      "name": "play",
+      "value": "Play"
+    },
+    {
+      "name": "pause",
+      "value": "Pause"
+    },
+    {
+      "name": "play_pause",
+      "value": "Play/Pause"
+    },
+    {
+      "name": "stop",
+      "value": "Stop"
+    },
+    {
+      "name": "destroy",
+      "value": "Destroy"
+    },
+    {
+      "name": "resize",
+      "value": "Resize to 200x200"
+    },
+    {
+      "name": "sub_frame_false",
+      "value": "SubFrame(false) Switch"
+    },
+    {
+      "name": "sub_frame_true",
+      "value": "SubFrame(true) Switch"
+    },
+    {
+      "name": "stop_at",
+      "value": "Stop at"
+    },
+    {
+      "name": "second",
+      "value": "Second"
+    },
+    {
+      "name": "seek_frame_play",
+      "value": "Seek to frame & play"
+    },
+    {
+      "name": "seek_time_play",
+      "value": "Seek to time & play"
+    },
+    {
+      "name": "frame350",
+      "value": "Frame 300-0"
+    },
+    {
+      "name": "frame50",
+      "value": "Frame 50-150"
+    },
+    {
+      "name": "frame100",
+      "value": "Frame 100-200"
+    },
+    {
+      "name": "reset",
+      "value": "Reset"
+    },
+    {
+      "name": "keep_playing",
+      "value": "Play frames 5-50,300-200,100-0,250-349 continuously"
+    },
+    {
+      "name": "get_duration",
+      "value": "Get Duration"
+    },
+    {
+      "name": "check_state",
+      "value": "Check Playback State"
+    },
+    {
+      "name": "hide",
+      "value": "Hide"
+    },
+    {
+      "name": "show",
+      "value": "Show"
+    },
+    {
+      "name": "change_color",
+      "value": "Change Color"
+    },
+    {
+      "name": "add_listener",
+      "value": "Add Listener"
+    },
+    {
+      "name": "remove_listener",
+      "value": "Remove Listener"
+    },
+    {
+      "name": "playback_speed6",
+      "value": "Playback Speed 6"
+    },
+    {
+      "name": "playback_speed1",
+      "value": "Playback Speed 1"
+    },
+    {
+      "name": "playback_speed",
+      "value": "Playback Speed -1"
+    },
+    {
+      "name": "play_forward",
+      "value": "Play Forward"
+    },
+    {
+      "name": "play_backward",
+      "value": "Play Backward"
+    },
+    {
+      "name": "jump_HSP",
+      "value": "Jump to HSP"
+    },
+    {
+      "name": "download_is_network",
+      "value": "Is playing network resources"
+    },
+    {
+      "name": "download_clear_cache",
+      "value": "Clear the cache"
+    },
+    {
+      "name": "is_pause",
+      "value": "Is pause"
+    },
+    {
+      "name": "animation_2016",
+      "value": "2016 Aimation"
+    },
+    {
+      "name": "animation_grunt",
+      "value": "Grunt Aimation"
+    },
+    {
+      "name": "animation_show",
+      "value": "Jump To"
+    },
+    {
+      "name": "animation_image",
+      "value": "Update Image(imageAssetDelegate)"
+    },
+    {
+      "name": "open_log",
+      "value": "Open Log"
+    },
+    {
+      "name": "close_log",
+      "value": "Close Log"
+    },
+    {
+      "name": "specified_animation",
+      "value": "only right animation:"
+    },
+    {
+      "name": "only_current_ability",
+      "value": "only current ability: "
+    },
+    {
+      "name": "freeze",
+      "value": "freeze"
+    },
+    {
+      "name": "unfreeze",
+      "value": "unfreeze"
+    },
+    {
+      "name": "set_volume",
+      "value": "set volume 5"
+    },
+    {
+      "name": "mute",
+      "value": "mute"
+    },
+    {
+      "name": "unmute",
+      "value": "unmute"
+    },
+    {
+      "name": "ability_jump",
+      "value": "Ability Jump"
+    },
+    {
+      "name": "AnotherAbility_desc",
+      "value": "another ability used for multi-abilities testing"
+    },
+    {
+      "name": "AnotherAbility_label",
+      "value": "another ability"
+    }
+  ]
+}

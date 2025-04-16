@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "load_grunt",
+      "value": "加载Grunt"
+    },
+    {
+      "name": "play",
+      "value": "播放"
+    },
+    {
+      "name": "pause",
+      "value": "暂停"
+    },
+    {
+      "name": "destroy",
+      "value": "销毁"
+    }
+  ]
+}

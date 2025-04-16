@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "load_grunt",
+      "value": "Load Grunt"
+    },
+    {
+      "name": "play",
+      "value": "Play"
+    },
+    {
+      "name": "pause",
+      "value": "Pause"
+    },
+    {
+      "name": "destroy",
+      "value": "Destroy"
+    }
+  ]
+}

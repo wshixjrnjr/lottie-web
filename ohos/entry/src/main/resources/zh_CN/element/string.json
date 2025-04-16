@@ -1,0 +1,268 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "lottie"
+    },
+    {
+      "name": "frame",
+      "value": "帧"
+    },
+    {
+      "name": "total",
+      "value": "共"
+    },
+    {
+      "name": "time",
+      "value": "轮"
+    },
+    {
+      "name": "forward",
+      "value": "正向"
+    },
+    {
+      "name": "backward",
+      "value": "反向"
+    },
+    {
+      "name": "speed",
+      "value": "速度"
+    },
+    {
+      "name": "load_2016",
+      "value": "加载2016"
+    },
+    {
+      "name": "clear_cache",
+      "value": "清除Lottie缓存"
+    },
+    {
+      "name": "load_grunt",
+      "value": "加载Grunt"
+    },
+    {
+      "name": "load_json",
+      "value": "加载网络Json"
+    },
+    {
+      "name": "load_zip",
+      "value": "加载网络Zip"
+    },
+    {
+      "name": "load_img",
+      "value": "加载网络Img"
+    },
+    {
+      "name": "setting",
+      "value": "设置"
+    },
+    {
+      "name": "global_setting",
+      "value": "全局设"
+    },
+    {
+      "name": "play",
+      "value": "播放"
+    },
+    {
+      "name": "pause",
+      "value": "暂停"
+    },
+    {
+      "name": "play_pause",
+      "value": "切换暂停"
+    },
+    {
+      "name": "stop",
+      "value": "停止"
+    },
+    {
+      "name": "destroy",
+      "value": "销毁"
+    },
+    {
+      "name": "resize",
+      "value": "resize到200x200"
+    },
+    {
+      "name": "sub_frame_false",
+      "value": "SubFrame(false)切换"
+    },
+    {
+      "name": "sub_frame_true",
+      "value": "SubFrame(true)切换"
+    },
+    {
+      "name": "stop_at",
+      "value": "停止在"
+    },
+    {
+      "name": "second",
+      "value": "秒"
+    },
+    {
+      "name": "seek_frame_play",
+      "value": "跳到5帧并播放"
+    },
+    {
+      "name": "seek_time_play",
+      "value": "跳到1秒并播放"
+    },
+    {
+      "name": "reset",
+      "value": "重置动画"
+    },
+    {
+      "name": "frame350",
+      "value": "300-0帧"
+    },
+    {
+      "name": "frame50",
+      "value": "50-150帧"
+    },
+    {
+      "name": "frame100",
+      "value": "100-200帧"
+    },
+    {
+      "name": "keep_playing",
+      "value": "连续播放5-50,300-200,100-0,250-349帧"
+    },
+    {
+      "name": "get_duration",
+      "value": "获取动画时长"
+    },
+    {
+      "name": "check_state",
+      "value": "判断当前动画是否正在运行"
+    },
+    {
+      "name": "hide",
+      "value": "隐藏"
+    },
+    {
+      "name": "show",
+      "value": "显示"
+    },
+    {
+      "name": "change_color",
+      "value": "动态更改颜色"
+    },
+    {
+      "name": "add_listener",
+      "value": "添加监听"
+    },
+    {
+      "name": "remove_listener",
+      "value": "移除监听"
+    },
+    {
+      "name": "playback_speed6",
+      "value": "播放速度6"
+    },
+    {
+      "name": "playback_speed1",
+      "value": "播放速度1"
+    },
+    {
+      "name": "playback_speed",
+      "value": "播放速度-1"
+    },
+    {
+      "name": "play_forward",
+      "value": "正向播放"
+    },
+    {
+      "name": "play_backward",
+      "value": "反向播放"
+    },
+    {
+      "name": "jump_HSP",
+      "value": "跳转HSP"
+    },
+    {
+      "name": "download_is_network",
+      "value": "是否播放网络资源："
+    },
+    {
+      "name": "download_clear_cache",
+      "value": "清除缓存"
+    },
+    {
+      "name": "is_pause",
+      "value": "是否暂停"
+    },
+    {
+      "name": "animation_2016",
+      "value": "2016动画"
+    },
+    {
+      "name": "animation_grunt",
+      "value": "Grunt动画"
+    },
+    {
+      "name": "animation_show",
+      "value": "跳转"
+    },
+    {
+      "name": "animation_image",
+      "value": "更新动画图片(imageAssetDelegate)"
+    },
+    {
+      "name": "open_log",
+      "value": "开启日志"
+    },
+    {
+      "name": "close_log",
+      "value": "关闭日志"
+    },
+    {
+      "name": "specified_animation",
+      "value": "指定右侧动画:"
+    },
+    {
+      "name": "only_current_ability",
+      "value": "仅限当前ability: "
+    },
+    {
+      "name": "freeze",
+      "value": "冻结"
+    },
+    {
+      "name": "unfreeze",
+      "value": "解冻"
+    },
+    {
+      "name": "set_volume",
+      "value": "设置音量为5"
+    },
+    {
+      "name": "mute",
+      "value": "静音"
+    },
+    {
+      "name": "unmute",
+      "value": "放音"
+    },
+    {
+      "name": "ability_jump",
+      "value": "ability跳转"
+    },
+    {
+      "name": "AnotherAbility_desc",
+      "value": "用于多ability测试的另一个的ability"
+    },
+    {
+      "name": "AnotherAbility_label",
+      "value": "另一个ability"
+    }
+  ]
+}

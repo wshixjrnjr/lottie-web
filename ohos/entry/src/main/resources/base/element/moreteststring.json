@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "index_more",
+      "value": "More"
+    },
+    {
+      "name": "animationShow_title",
+      "value": "Animation invisible stop drawing"
+    },
+    {
+      "name": "animationShow_text1",
+      "value": "1.2016 animation slides down to invisible, the animation stops drawing. It does not affect the Grunt animation in the visible area."
+    },
+    {
+      "name": "animationShow_text2",
+      "value": "2.2016 animation and Grunt animation slide down to invisible, and both animations stop drawing."
+    },
+    {
+      "name": "animationShow_text3",
+      "value": "3. Animated hiding does not stop drawing."
+    },
+    {
+      "name": "reuseScenario_title",
+      "value": "Repeat component reuse scenario"
+    },
+    {
+      "name": "reuseScenario_text",
+      "value": "Slide down to the bottom and the animation stops drawing. Slide until the animation is visible and the animation continues to play. This is reflected in whether the drawing information is printed all the time."
+    },
+    {
+      "name": "hidingParentNodes_title",
+      "value": "Parent node hidden, child canvas visible."
+    },
+    {
+      "name": "hidingParentNodes_title2",
+      "value": "If the page is not drawn, the effect is normal."
+    },
+    {
+      "name": "all_animation",
+      "value": "All animation"
+    },
+    {
+      "name": "load_animation",
+      "value": "Load animation"
+    },
+    {
+      "name": "coordinatorExample_title",
+      "value": "Coordinator Example"
+    },
+    {
+      "name": "frameCallback_title",
+      "value": "Frame Callback Case"
+    }
+  ]
+}
